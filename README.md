@@ -22,7 +22,7 @@ WINNER | NOMINEE
 ## 2020 CGC AWARDS CATEGORIES
 
 | PERFORMERS         | WEB & TECH            | STUDIO & MANAGEMENT       |
-| ------------- |-------------| -----|
+| :-------------: |:-------------:|:-----:|
 | Best Camgirl     | Best performer website | Best European Studio |
 | Best Camboy      | Best graphics      | Best US Studio |
 | Best Couple | Best Web-App      | Best Studio Manager   |
