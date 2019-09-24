@@ -27,4 +27,4 @@ WINNER | NOMINEE
 | Best Camboy      | Best graphics      | Best US Studio |
 | Best Couple | Best Web-App      | Best Studio Manager   |
 | Best Inked performer | Best CGC profile       | Best Studio support   |
-|    [:star: SUBMIT NOMINATION](https://awards.camgirl.cloud/#category)      |
+|:star:|    [SUBMIT NOMINATION](https://awards.camgirl.cloud/#category)      |:star:|
