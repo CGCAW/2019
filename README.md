@@ -1,3 +1,5 @@
+![CGC AWARDS 2020](https://raw.githubusercontent.com/CGCAW/cgcawards/master/assets/cgc_twitter_2020cover.jpg)
+
 # 2019/2020 AWARDS.CAMGIRL.CLOUD
 [:trophy: 2019 - CGC AWARDS](https://awards.camgirl.cloud/92019-awards)
 
