@@ -13,3 +13,23 @@ Winners | Category
 [:tickets: SUBMIT TO BECOME A CGC SPONSOR](https://camgirl.cloud/become-a-sponsor/)
 
 
+## Badges 2020
+
+WINNER | NOMINEE
+------------ | -------------
+![CGC AWARDS 2020 WINNER](https://raw.githubusercontent.com/CGCAW/aw/master/assets/badge/winner_cgc250.jpg) | ![CGC AWARDS 2020 NOMINEE](https://raw.githubusercontent.com/CGCAW/aw/master/assets/badge/nom_cgc250.jpg)
+
+## 2020 CGC AWARDS CATEGORIES
+PERFORMERS | WEB & TECH | STUDIO & MANAGEMENT
+| ------------ | ------------- |
+Best Camgirl
+Best Camboy
+Best Couple
+Best Inked performer | Best performer website
+Best graphics
+Best Web-App
+Best CGC profile  | 
+Best European Studio
+Best US Studio
+Best Studio Manager
+Best Studio support 
